@@ -1,0 +1,29 @@
+# --- 敏感信息 ---
+.env
+.env.*
+!.env.example
+data/real_data.json
+
+# --- 编辑器配置 ---
+.vscode/
+.idea/
+
+# --- Python 缓存 ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 测试与运行缓存 ---
+.pytest_cache/
+.cache/
+
+# --- 日志与报告 ---
+log/
+*.log
+report/
+allure-results/
+allure-report/
+
+# --- 本地依赖/大文件 ---
+lx/
+img/
