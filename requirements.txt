@@ -1,0 +1,6 @@
+Appium_Python_Client==6.5.2
+environs==15.2.0
+pytest==9.1.1
+pytest==9.2.0
+Requests==2.34.2
+selenium==4.54.0
